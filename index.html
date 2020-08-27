@@ -70,7 +70,7 @@
       }
     };
     function setProgress() {
-      var lang = navigator?navigator.language.toLowerCase()||'zh-cn';
+      var lang = navigator?navigator.language.toLowerCase():'zh-cn';
       var engines = langs.engine[lang].split(',');
       document.getElementById('loading-text').innerText = langs.loading[lang];
       document.getElementById('engin-text').innerHTML = '<p>' + engines[0] + '</p>' + (engines[1] ? '<p>' + engines[1] + '</p>' : '');
