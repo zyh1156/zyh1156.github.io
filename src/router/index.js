@@ -1,6 +1,7 @@
 import {
     createRouter,
-    createWebHistory
+    createWebHistory,
+    createWebHashHistory
 } from 'vue-router'
 import venom from "./venom"
 const routes = [{
@@ -9,7 +10,7 @@ const routes = [{
         import ("../views/index/index")
 }, venom]
 export const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(process.env.BASE_URL),
     routes: routes
 })
 export default router
