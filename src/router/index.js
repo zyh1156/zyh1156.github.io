@@ -14,7 +14,7 @@ const routes = [{
         import ("../views/index/index")
 }]
 export const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(),
     routes: routes
 })
 export default router
