@@ -8,9 +8,13 @@ const routes = [{
     path: "/",
     component: () =>
         import ("../views/index/index")
-}, venom]
+}, venom, {
+    path: "",
+    component: () =>
+        import ("../views/index/index")
+}]
 export const router = createRouter({
-    history: createWebHashHistory(process.env.BASE_URL),
+    history: createWebHistory(),
     routes: routes
 })
 export default router
