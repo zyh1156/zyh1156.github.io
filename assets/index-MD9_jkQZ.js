@@ -1,0 +1,1 @@
+import{_ as o,r as e,c as t,o as r}from"./index-POpZfK9G.js";const n={setup(){return{link:e}},mounted(){console.log(e)}};function s(c,a,p,_,u,d){return r(),t("div")}const l=o(n,[["render",s]]);export{l as default};
