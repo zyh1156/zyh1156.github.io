@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkzyhzyh"]=self["webpackChunkzyhzyh"]||[]).push([[756],{8756:function(n,r,e){e.r(r),e.d(r,{default:function(){return a}});var u=e(3396);function t(n,r){const e=(0,u.up)("router-view");return(0,u.wg)(),(0,u.j4)(e)}var c=e(89);const h={},s=(0,c.Z)(h,[["render",t]]);var a=s}}]);
