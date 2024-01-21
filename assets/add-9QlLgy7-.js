@@ -1,0 +1,1 @@
+import{o as a,a as c,c as i}from"./index-oxCdBkuV.js";const m={__name:"add",setup(n){a(()=>{o()});let o=()=>{let t=new Array,s;for(let e=0;e<1024;e++)s=e<10?"00"+e:e<100?"0":e,t.push({index:"SSIS-"+s,name:"",img:"https://eightcha.com/ssis-"+s+"/cover.jpg",video:"https://missav.com/ja/ssis-"+s,comic:""});console.log(t)};return(t,s)=>(c(),i("div"))}};export{m as default};
