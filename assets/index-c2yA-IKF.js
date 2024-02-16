@@ -1,1 +1,0 @@
-import{c as e,a,w as t,u as s,o,R as n,b as r}from"./index-R8Jru2JP.js";const c=r("h1",null,"Teams",-1),i={__name:"index",setup(_){return(u,l)=>(o(),e("div",null,[a(s(n),{to:"/dota2/teams"},{default:t(()=>[c]),_:1})]))}};export{i as default};

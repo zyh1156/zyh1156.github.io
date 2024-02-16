@@ -1,1 +1,0 @@
-import{c as e,a,w as t,u as o,o as s,R as n,b as r}from"./index-R8Jru2JP.js";const c=r("h1",null,"DOTA2",-1),m={__name:"HomeView",setup(_){return(u,l)=>(s(),e("main",null,[a(o(n),{to:"/dota2"},{default:t(()=>[c]),_:1})]))}};export{m as default};
