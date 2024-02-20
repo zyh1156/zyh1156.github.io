@@ -1,0 +1,1 @@
+import{a as o}from"./axios-G2rPRu76.js";import{d as s,g as c,o as n,c as p}from"./index-SpatXKuD.js";const l={__name:"index",setup(r){s(()=>{a()});let a=()=>{let e=c().params.account_id;o.get("https://api.opendota.com/api/players/"+e).then(t=>{console.log(t)})};return(e,t)=>(n(),p("div"))}};export{l as default};
