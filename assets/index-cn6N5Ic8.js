@@ -1,1 +1,0 @@
-import{a as e}from"./axios-G2rPRu76.js";import{d as o,o as n,c as s}from"./index-ewtNZfvB.js";const d={__name:"index",setup(c){o(()=>{a()});let a=()=>{e.get("https://api.opendota.com/api/metadata").then(t=>{console.log(t.data)})};return(t,p)=>(n(),s("div"))}};export{d as default};
