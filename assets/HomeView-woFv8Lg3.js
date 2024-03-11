@@ -1,1 +1,0 @@
-import{o as e,c as a,a as t,w as o,u as s,R as n,b as r}from"./index-SBtspSr4.js";const c=r("h1",null,"DOTA2",-1),m={__name:"HomeView",setup(_){return(u,l)=>(e(),a("main",null,[t(s(n),{to:"/dota2"},{default:o(()=>[c]),_:1})]))}};export{m as default};
