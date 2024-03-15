@@ -1,1 +1,0 @@
-import{d as c,o as s,c as i}from"./index-CKAKOfSj.js";const m={__name:"add",setup(n){c(()=>{a()});let a=()=>{let t=new Array,o;for(let e=1;e<256;e++)o=e<10?"00"+e:e<100?"0"+e:e,t.push({index:"SCOH-"+o,name:"",img:"https://eightcha.com/scoh-"+o+"/cover.jpg",video:"https://missav.com/ja/scoh-"+o,comic:""});console.log(t)};return(t,o)=>(s(),i("div"))}};export{m as default};
