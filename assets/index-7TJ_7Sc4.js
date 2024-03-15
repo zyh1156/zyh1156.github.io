@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,w as s,u as o,R as n,b as r}from"./index--FfCRMM9.js";const c=r("h1",null,"Teams",-1),i={__name:"index",setup(_){return(u,l)=>(e(),a("div",null,[t(o(n),{to:"/dota2/teams"},{default:s(()=>[c]),_:1})]))}};export{i as default};
