@@ -1,0 +1,1 @@
+import{a as t}from"./axios-nwi5g7Xq.js";import{d as a,o as n,c as s}from"./index-Pmvj2tTj.js";const l={__name:"index",setup(c){a(()=>{o()});let o=()=>{t.get("https://api.opendota.com/api/live").then(e=>{console.log(e)})};return(e,p)=>(n(),s("div"))}};export{l as default};

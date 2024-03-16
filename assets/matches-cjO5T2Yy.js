@@ -1,0 +1,1 @@
+import{d as o,g as s,o as m,c}from"./index-Pmvj2tTj.js";import{a as n}from"./axios-nwi5g7Xq.js";const i={__name:"matches",setup(p){o(()=>{e()});let e=()=>{let t=s().params.team_id;n.get("https://api.opendota.com/api/teams/"+t+"/matches").then(a=>{console.log(a.data)})};return(t,a)=>(m(),c("div"))}};export{i as default};
