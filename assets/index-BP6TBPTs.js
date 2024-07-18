@@ -1,0 +1,1 @@
+import{c as r,o as s}from"./index-BCEI7tUp.js";const _=(e,t)=>{const c=e.__vccOpts||e;for(const[o,n]of t)c[o]=n;return c},a={};function f(e,t){return s(),r("div")}const i=_(a,[["render",f]]);export{i as default};
