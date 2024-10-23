@@ -1,0 +1,1 @@
+import{a as t}from"./axios-nwi5g7Xq.js";import{o as a,a as n,c as s}from"./index-LvcPvyF9.js";const l={__name:"index",setup(c){a(()=>{o()});let o=()=>{t.get("https://api.opendota.com/api/leagues").then(e=>{console.log(e)})};return(e,p)=>(n(),s("div"))}};export{l as default};

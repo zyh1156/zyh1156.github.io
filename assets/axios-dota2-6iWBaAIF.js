@@ -1,0 +1,1 @@
+import{a as s}from"./axios-nwi5g7Xq.js";import{x as r}from"./index-LvcPvyF9.js";const t=s.create({baseURL:"https://api.opendota.com/api"});t.interceptors.request.use(e=>(r.state.loading=!0,e),e=>Promise.reject(e));t.interceptors.response.use(e=>(r.state.loading=!1,e),e=>Promise.reject(e));export{t as A};

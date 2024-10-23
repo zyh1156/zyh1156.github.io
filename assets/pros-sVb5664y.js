@@ -1,0 +1,1 @@
+import{a as e}from"./axios-nwi5g7Xq.js";import{o as s,i as c,a as p,c as r}from"./index-LvcPvyF9.js";const l={__name:"pros",setup(n){s(()=>{t()});let t=()=>{let o=c().params.account_id;e.get("https://api.opendota.com/api/players/"+o+"/pros").then(a=>{console.log(a)})};return(o,a)=>(p(),r("div"))}};export{l as default};
